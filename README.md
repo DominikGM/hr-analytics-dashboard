@@ -52,4 +52,4 @@ Power BI Desktop
 - Star Schema Modeling
 
 📷 Preview
-(Add screenshot here)
+(https://github.com/DominikGM/hr-analytics-dashboard/blob/main/HR%20Analytics%20Dashboard.screenshot.png)
